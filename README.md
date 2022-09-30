@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tunchahmet" target="blank"><img src="https://img.shields.io/twitter/follow/tunchahmet?logo=twitter&style=for-the-badge" alt="tunchahmet" /></a> </p>
 
-- 🔭 I’m currently working on **Gametch**
-
 - 🌱 I’m currently learning **react, svelte, node.js**
 
 - 👨‍💻 All of my projects are available at [https://tunchahmet.netlify.app/](https://tunchahmet.netlify.app/)
-
-- 💬 Ask me about **JavaScript, Frontend**
 
 - 📫 How to reach me **tunch.ahmet@gmail.com**
 
