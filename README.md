@@ -1,24 +1,25 @@
 # Ahmet Tunç — Mechatronics & Control
 
-**3rd-year Mechatronics Engineering student (ranked 1st)** at Istanbul Health and Technology University. I work across **control systems, embedded C/C++**, and **electronics design**, turning ideas into working prototypes. :contentReference[oaicite:0]{index=0}
+3rd-year Mechatronics Engineering student (**ranked 1st**) at Istanbul Health and Technology University.  
+I build control & embedded systems end-to-end: **modeling → simulation → electronics → firmware → tests → docs**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tunchahmet-blue)](https://www.linkedin.com/in/tunchahmet/)
-[![Website](https://img.shields.io/badge/Website-tunchahmet.vercel.app-informational)](https://tunchahmet.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-@TuncAhmet-black)](https://github.com/TuncAhmet)
+- **TÜBİTAK 2209-B Grantee (Project Lead / PI)** — FPGA-based ADCS for CubeSat  
+- **President**, Control & Automation Club  
+- **Embedded Systems Intern**, Mutusan Electric
 
 ## 🔭 Featured Projects
-- **FPGA-Based ADCS for CubeSat** — reaction wheel design, Kalman-based sensor fusion (IMU + magnetometer), PID/MPC; MATLAB/Simulink → HDL/Verilog. (TÜBİTAK 2209-B)
-- **8-Bit Optical Absolute Encoder** — analog front-end + STM32 firmware, end-to-end design and testing. :contentReference[oaicite:1]{index=1}
-- **Quad-Plane VTOL-UAV** — hybrid airframe control & avionics experiments. :contentReference[oaicite:2]{index=2}
+- **FPGA-Based ADCS for CubeSat** — reaction wheel, Kalman-based sensor fusion (IMU + magnetometer), PID/MPC; MATLAB/Simulink → HDL/Verilog.  
+- **8-Bit Optical Absolute Encoder** — KiCad HW + STM32 firmware; calibration/test jigs.  
+- **Quad-Plane VTOL-UAV** — hybrid airframe; control & avionics experiments.
+
+> I’ll add repos and links as they go public.
 
 ## 🧰 Tech Stack
-**C/C++**, MATLAB/Simulink, **Verilog/HDL**, Python • KiCad, LTspice • Control (PID, MPC), **Kalman Filtering** • Embedded/RT systems. :contentReference[oaicite:3]{index=3}
+C/C++, MATLAB/Simulink, Verilog/HDL, Python • KiCad, LTspice • **Control (PID, MPC)** • **Kalman Filtering** • STM32/embedded.
 
 ## 📫 Contact
-- Website: **tunchahmet.vercel.app**
-- LinkedIn: **/in/tunchahmet/**
-- (Optional) Email: add your preferred address
+- Website: https://tunchahmet.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/tunchahmet/  
+- Email: [your email here]
 
----
-
-> I enjoy building from concept to prototype: modeling → simulation → electronics → firmware → tests → documentation. Always open to research & internship collaborations.
+I enjoy turning ideas into working prototypes and I’m open to research & internship collaborations.
