@@ -1,5 +1,24 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunchahmet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tunchahmet) 
+# Ahmet Tunç — Mechatronics & Control
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+**3rd-year Mechatronics Engineering student (ranked 1st)** at Istanbul Health and Technology University. I work across **control systems, embedded C/C++**, and **electronics design**, turning ideas into working prototypes. :contentReference[oaicite:0]{index=0}
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tunchahmet-blue)](https://www.linkedin.com/in/tunchahmet/)
+[![Website](https://img.shields.io/badge/Website-tunchahmet.vercel.app-informational)](https://tunchahmet.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-@TuncAhmet-black)](https://github.com/TuncAhmet)
+
+## 🔭 Featured Projects
+- **FPGA-Based ADCS for CubeSat** — reaction wheel design, Kalman-based sensor fusion (IMU + magnetometer), PID/MPC; MATLAB/Simulink → HDL/Verilog. (TÜBİTAK 2209-B)
+- **8-Bit Optical Absolute Encoder** — analog front-end + STM32 firmware, end-to-end design and testing. :contentReference[oaicite:1]{index=1}
+- **Quad-Plane VTOL-UAV** — hybrid airframe control & avionics experiments. :contentReference[oaicite:2]{index=2}
+
+## 🧰 Tech Stack
+**C/C++**, MATLAB/Simulink, **Verilog/HDL**, Python • KiCad, LTspice • Control (PID, MPC), **Kalman Filtering** • Embedded/RT systems. :contentReference[oaicite:3]{index=3}
+
+## 📫 Contact
+- Website: **tunchahmet.vercel.app**
+- LinkedIn: **/in/tunchahmet/**
+- (Optional) Email: add your preferred address
+
+---
+
+> I enjoy building from concept to prototype: modeling → simulation → electronics → firmware → tests → documentation. Always open to research & internship collaborations.
